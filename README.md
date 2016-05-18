@@ -1,2 +1,4 @@
 # storm-redis
-Apache Storm Redis Spout and Bolt
+Apache Storm Redis Spout
+
+
